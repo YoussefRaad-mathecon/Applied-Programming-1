@@ -4,6 +4,6 @@
 #include <algorithm>
 #include <cmath> 
 
-void guassian_elimination(double **A, double *b, double *u, int n);
+void gaussian_elimination(double **A, double *b, double *u, int n);
 
 #endif
